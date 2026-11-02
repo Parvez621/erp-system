@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EduCore School ERP — frontend review build
 
 A responsive React + Vite frontend prototype based on `School_ERP_Frontend_Handoff_Guide.docx`. The visual direction is intentionally unchanged: minimal white surfaces, quiet blue accents, rounded cards, restrained charts, and a collapsible mobile sidebar.
@@ -75,3 +76,6 @@ The handoff guide explicitly labels student, staff, classes, attendance, timetab
 7. Run desktop/mobile and keyboard-accessibility testing with real backend roles and realistic data.
 
 This build is intended for your visual and workflow review before backend integration; it is not a production-ready ERP by itself.
+=======
+# erp-system
+>>>>>>> dc809b813e8c7cd3c05fd080adfcd4209f123b0c
